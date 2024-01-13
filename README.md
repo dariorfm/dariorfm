@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋(⌐■_■)
+### - 🌱 I’m currently learning JavaScript (☞ﾟヮﾟ)☞
 
 <!--
 **dariorfm/dariorfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
