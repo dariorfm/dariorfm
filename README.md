@@ -1,5 +1,5 @@
 # Hi there 👋(⌐■_■)
-### - 🌱 I’m currently learning JavaScript (☞ﾟヮﾟ)☞
+### - 🌱 I’m currently learning JavaScript, Node.js and React (☞ﾟヮﾟ)☞ 
 
 <!--
 **dariorfm/dariorfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
